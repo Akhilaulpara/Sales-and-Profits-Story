@@ -1,4 +1,4 @@
-**📊 Office Equipment Sales & Profit Analysis – Tableau Story**
+<h2>**📊 Office Equipment Sales & Profit Analysis – Tableau Story**</h2>
 
 This Tableau project explores sales and profit trends of Office Equipment using Tableau's default Superstore dataset. The project provides a visual narrative through a Tableau Story, helping stakeholders quickly grasp regional performance, yearly trends, and loss-driving segments.
 
